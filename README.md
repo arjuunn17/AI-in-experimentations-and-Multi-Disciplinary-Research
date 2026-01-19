@@ -96,7 +96,7 @@ Conclusion and Future Work
 
 The multidisciplinary research presented in the sources highlights the convergence of AI, engineering, and social science to manage modern complexities. The transition from expert systems to multi-agent LLM scientists indicates a trend toward autonomous scientific discovery. Future work in LLMs must address the "modality gap" to improve reasoning in visual contexts. In urban science, the development of quantitative benchmarks for hypothesis quality is essential for building confidence in automated agents. Engineering projects like SmartEN suggest that energy harvesting for sensor networks will be a critical next step for sustainable infrastructure. Finally, the fusion of biomolecular archaeology and computational cognitive modeling offers new pathways to understanding both human history and the mechanisms of superior human performance.
 
-References (1 Page Equivalent)
+References 
 
 Sharma, G. K. et al. (2025). "Impact of Artificial Intelligence in Marketing Concepts and Applications." International Educational Applied Research Journal, 9(5).
 
